@@ -7,7 +7,7 @@ on:
 
 env:
   AWS_REGION: us-west-2 
-  ECR_REGISTRY: 966391709212.dkr.ecr.us-west-2.amazonaws.com/user10-repo 
+  ECR_REGISTRY: 966391709212.dkr.ecr.us-west-2.amazonaws.com 
   ECR_REPOSITORY: user10-repo
   IMAGE_TAG: latest
 
